@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ExpandableLayout">
+        <attr name="elDuration" format="integer" />
+        <attr name="elExpanded" format="boolean" />
+        <attr name="elParallax" format="float" />
+        <attr name="android:orientation"/>
+    </declare-styleable>
+
+</resources>
